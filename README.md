@@ -26,7 +26,7 @@
 23.	WAP to Count Number of Digits in an Integer
 24.	WAP to Reverse a Number
 25.	WAP to Calculate the Power of a Number
-26.	WAP to Check Palindrome
+26.	WAP to Check Palindrome .
 27.	WAP to Check Whether a Number is Prime or Not
 28.	WAP to Display Prime Numbers Between Two Intervals
 29.	WAP to Check Armstrong Number
