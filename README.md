@@ -38,7 +38,7 @@
 35.	WAP to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
 36.	WAP to Find the Sum of Natural Numbers using Recursion
 37.	WAP to Find Factorial of a Number Using Recursion
-38.	WAP to Find G.C.D Using Recursion
+38.	WAP to Find G.C.D Using Recursion .
 39.	WAP to Convert Binary Number to Decimal and vice-versa
 40.	WAP to Convert Octal Number to Decimal and vice-versa
 41.	WAP to Convert Binary Number to Octal and vice-versa
