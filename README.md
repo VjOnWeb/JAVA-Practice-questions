@@ -42,7 +42,7 @@
 39.	WAP to Convert Binary Number to Decimal and vice-versa
 40.	WAP to Convert Octal Number to Decimal and vice-versa
 41.	WAP to Convert Binary Number to Octal and vice-versa
-42.	WAP to calculate the power using recursion
+42.	WAP to calculate the power using recursion .
 43.	WAP to Calculate Average Using Arrays .
 44.	WAP to Find Largest Element of an Array .
 45.	WAP to Calculate Standard Deviation
