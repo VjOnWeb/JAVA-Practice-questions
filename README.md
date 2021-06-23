@@ -104,7 +104,7 @@
 101.	WAP to Implement Bubble Sort algorithm
 102.	WAP to Implement Quick Sort Algorithm
 103.	WAP to Implement Merge Sort Algorithm
-104.	WAP to Implement Binary Search Algorithm
+104.	WAP to Implement Binary Search Algorithm .
 105.	WAP to Call One Constructor from another
 106.	WAP to implement private constructors
 107.	WAP to pass lambda expression as a method argument
