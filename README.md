@@ -102,7 +102,7 @@
 99.	WAP to convert double type variables to string
 100.	WAP to convert primitive types to objects and vice versa
 101.	WAP to Implement Bubble Sort algorithm
-102.	WAP to Implement Quick Sort Algorithm
+102.	WAP to Implement Quick Sort Algorithm .
 103.	WAP to Implement Merge Sort Algorithm
 104.	WAP to Implement Binary Search Algorithm .
 105.	WAP to Call One Constructor from another
