@@ -117,7 +117,7 @@
 114.	WAP to Read the Content of a File Line by Line
 115.	WAP to Delete File in Java
 116.	WAP to Delete Empty and Non-empty Directory
-117.	WAP to Get the File Extension
+117.	WAP to Get the File Extension .
 118.	WAP to Get the name of the file from the absolute path
 119.	WAP to Get the relative path from two absolute paths
 120.	WAP to Count number of lines present in the file
