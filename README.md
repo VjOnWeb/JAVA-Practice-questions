@@ -121,7 +121,7 @@
 118.	WAP to Get the name of the file from the absolute path
 119.	WAP to Get the relative path from two absolute paths
 120.	WAP to Count number of lines present in the file
-121.	WAP to Determine the class of an object
+121.	WAP to Determine the class of an object .
 122.	WAP to Create an enum class
 123.	WAP to Print object of a class
 124.	WAP to Create custom exception
