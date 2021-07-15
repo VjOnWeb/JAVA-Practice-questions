@@ -48,7 +48,7 @@
 45.	WAP to Calculate Standard Deviation .
 46.	WAP to Add Two Matrix Using Multi-dimensional Arrays .
 47.	WAP to Multiply to Matrix Using Multi-dimensional Arrays
-48.	WAP to Multiply two Matrices by Passing Matrix to a Function
+48.	WAP to Multiply two Matrices by Passing Matrix to a Function .
 49.	WAP to Find Transpose of a Matrix
 50.	WAP to Find the Frequency of Character in a String
 51.	WAP to Count the Number of Vowels and Consonants in a Sentence
