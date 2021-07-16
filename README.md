@@ -33,7 +33,7 @@
 30.	WAP to Display Armstrong Number Between Two Intervals
 31.	WAP to Display Prime Numbers Between Intervals Using Function
 32.	WAP to Display Armstrong Numbers Between Intervals Using Function
-33.	WAP to Display Factors of a Number
+33.	WAP to Display Factors of a Number .
 34.	WAP to Make a Simple Calculator Using switch...case .
 35.	WAP to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
 36.	WAP to Find the Sum of Natural Numbers using Recursion
