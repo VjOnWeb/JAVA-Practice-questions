@@ -40,7 +40,7 @@
 37.	WAP to Find Factorial of a Number Using Recursion
 38.	WAP to Find G.C.D Using Recursion .
 39.	WAP to Convert Binary Number to Decimal and vice-versa
-40.	WAP to Convert Octal Number to Decimal and vice-versa
+40.	WAP to Convert Octal Number to Decimal and vice-versa .
 41.	WAP to Convert Binary Number to Octal and vice-versa
 42.	WAP to calculate the power using recursion .
 43.	WAP to Calculate Average Using Arrays .
