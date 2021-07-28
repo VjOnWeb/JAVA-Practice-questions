@@ -56,7 +56,7 @@
 53.	WAP to Add Two Complex Numbers by Passing Class to a Function
 54.	WAP to Calculate Difference Between Two Time Periods
 55.	Java Code To Create Pyramid and Pattern
-56.	WAP to Remove All Whitespaces from a String
+56.	WAP to Remove All Whitespaces from a String .
 57.	WAP to Print an Array .
 58.	WAP to Convert String to Date
 59.	WAP to Round a Number to n Decimal Places
