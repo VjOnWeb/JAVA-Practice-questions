@@ -23,7 +23,7 @@
 20.	WAP to Find GCD of two Numbers .
 21.	WAP to Find LCM of two Numbers .
 22.	WAP to Display Alphabets (A to Z) using loop
-23.	WAP to Count Number of Digits in an Integer
+23.	WAP to Count Number of Digits in an Integer .
 24.	WAP to Reverse a Number
 25.	WAP to Calculate the Power of a Number
 26.	WAP to Check Palindrome .
