@@ -153,7 +153,7 @@
 150.	WAP to Update value of HashMap using key
 151.	WAP to Remove duplicate elements from ArrayList
 152.	WAP to Get key from HashMap using the value
-153.	WAP to Detect loop in a LinkedList
+153.	WAP to Detect loop in a LinkedList .
 154.	WAP to Calculate union of two sets
 155.	WAP to Calculate the intersection of two sets
 156.	WAP to Calculate the difference between two sets
