@@ -115,7 +115,7 @@
 112.	WAP to Load File as InputStream
 113.	WAP to Create File and Write to the File
 114.	WAP to Read the Content of a File Line by Line
-115.	WAP to Delete File in Java
+115.	WAP to Delete File in Java .
 116.	WAP to Delete Empty and Non-empty Directory
 117.	WAP to Get the File Extension .
 118.	WAP to Get the name of the file from the absolute path
