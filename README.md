@@ -28,7 +28,7 @@
 25.	WAP to Calculate the Power of a Number
 26.	WAP to Check Palindrome .
 27.	WAP to Check Whether a Number is Prime or Not
-28.	WAP to Display Prime Numbers Between Two Intervals
+28.	WAP to Display Prime Numbers Between Two Intervals .
 29.	WAP to Check Armstrong Number
 30.	WAP to Display Armstrong Number Between Two Intervals
 31.	WAP to Display Prime Numbers Between Intervals Using Function
