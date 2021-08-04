@@ -63,7 +63,7 @@
 60.	WAP to Concatenate Two Arrays
 61.	WAP to Convert Character to String and Vice-Versa
 62.	WAP to Check if An Array Contains a Given Value
-63.	WAP to Check if a String is Empty or Null
+63.	WAP to Check if a String is Empty or Null .
 64.	WAP to Get Current Date/TIme
 65.	WAP to Convert Milliseconds to Minutes and Seconds
 66.	WAP to Add Two Dates
