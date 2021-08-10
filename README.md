@@ -79,7 +79,7 @@
 76.	WAP to Convert File to byte array and Vice-Versa
 77.	WAP to Convert InputStream to String
 78.	WAP to Convert OutputStream to String
-79.	WAP to Lookup enum by String value
+79.	WAP to Lookup enum by String value .
 80.	WAP to Compare Strings
 81.	WAP to Sort a Map By Values
 82.	WAP to Sort ArrayList of Custom Objects By Property
