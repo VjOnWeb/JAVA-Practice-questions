@@ -19,7 +19,7 @@
 16.	WAP to Check Whether a Character is Alphabet or Not .
 17.	WAP to Find Factorial of a Number .
 18.	WAP to Generate Multiplication Table .
-19.	WAP to Display Fibonacci Series
+19.	WAP to Display Fibonacci Series .
 20.	WAP to Find GCD of two Numbers .
 21.	WAP to Find LCM of two Numbers .
 22.	WAP to Display Alphabets (A to Z) using loop
