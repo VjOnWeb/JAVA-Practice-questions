@@ -1,14 +1,14 @@
-public class Average {
+public class Largest {
 
     public static void main(String[] args) {
-        double[] numArray = { 45.3, 67.5, -45.6, 20.34, 33.0, 45.6 };
-        double sum = 0.0;
+        double[] numArray = { 23.4, -34.5, 50.0, 33.5, 55.5, 43.7, 5.7, -66.5 };
+        double largest = numArray[0];
 
         for (double num: numArray) {
-           sum += num;
+            if(largest < num)
+                largest = num;
         }
 
-        double average = sum / numArray.length;
-        System.out.format("The average is: %.2f", average);
+        System.out.format("Largest element = %.2f", largest);
     }
 }
