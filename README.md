@@ -134,7 +134,7 @@
 131.	WAP to Capitalize the first character of each word in a String
 132.	WAP to Iterate through each characters of the string.
 133.	WAP to Differentiate String == operator and equals() method
-134.	WAP to Implement switch statement on strings
+134.	WAP to Implement switch statement on strings .
 135.	WAP to Calculate simple interest and compound interest
 136.	WAP to Implement multiple inheritance
 137.	WAP to Determine the name and version of the operating system
