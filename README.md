@@ -55,7 +55,7 @@
 52.	WAP to Count the Number of Vowels and Consonants in a Sentence
 53.	WAP to Sort Elements in Lexicographical Order (Dictionary Order)
 54.	WAP to Add Two Complex Numbers by Passing Class to a Function
-55.	WAP to Calculate Difference Between Two Time Periods
+55.	WAP to Calculate Difference Between Two Time Periods .
 56.	Java Code To Create Pyramid and Pattern
 57.	WAP to Remove All Whitespaces from a String .
 58.	WAP to Print an Array .
