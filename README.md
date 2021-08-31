@@ -1,5 +1,5 @@
 # JAVA
-## Questions Solved in Java Language
+## Questions to be solved (in Java)
 
 1.	WAP(Write a Program) to display a message "Hello World !" 
 2.	WAP to initialize char,int,double & float data type variables with any value.
