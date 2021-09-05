@@ -5,7 +5,7 @@
 2.	WAP to initialize char,int,double & float data type variables with any value.
 3.	WAP to find sum of 3 numbers and print the largest number.
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" .
-5.	WAP to Print an Integer (Entered by the User) .
+5.	WAP to Print an Integer (Entered by the User) 
 6.	WAP to Add Two Integers 
 7.	WAP to Multiply two Floating Point Numbers .
 8.	WAP to Find ASCII Value of a character 
@@ -56,7 +56,7 @@
 53.	WAP to Sort Elements in Lexicographical Order (Dictionary Order)
 54.	WAP to Add Two Complex Numbers by Passing Class to a Function
 55.	WAP to Calculate Difference Between Two Time Periods .
-56.	Java Code To Create Pyramid and Pattern
+56.	Java Code To Create Pyramid and Pattern .
 57.	WAP to Remove All Whitespaces from a String .
 58.	WAP to Print an Array .
 59.	WAP to Convert String to Date
