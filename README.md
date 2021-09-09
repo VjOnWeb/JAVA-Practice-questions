@@ -17,7 +17,7 @@
 14.	WAP to Check Leap Year .
 15.	WAP to Check Whether a Number is Positive or Negative .
 16.	WAP to Check Whether a Character is Alphabet or Not .
-17.	WAP to Find Factorial of a Number .
+17.	WAP to Find Factorial of a Number 
 18.	WAP to Generate Multiplication Table .
 19.	WAP to Display Fibonacci Series .
 20.	WAP to Find GCD of two Numbers .
@@ -72,7 +72,7 @@
 69.	WAP to Convert the ArrayList to an array and vice versa
 70.	WAP to Get Current Working Directory
 71.	WAP to Convert Map (HashMap) to List
-72.	WAP to Convert Array to Set (HashSet) and Vice-Versa
+72.	WAP to Convert Array to Set (HashSet) and Vice-Versa .
 73.	WAP to Convert Byte Array to Hexadecimal .
 74.	WAP to Create String from Contents of a File
 75.	WAP to Append Text to an Existing File
