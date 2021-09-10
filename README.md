@@ -67,8 +67,8 @@
 64.	WAP to Check if a String is Empty or Null .
 65.	WAP to Get Current Date/TIme
 66.	WAP to Convert Milliseconds to Minutes and Seconds
-67.	WAP to Add Two Dates
-68.	WAP to Join Two Lists
+67.	WAP to Add Two Dates .
+68.	WAP to Join Two Lists .
 69.	WAP to Convert the ArrayList to an array and vice versa
 70.	WAP to Get Current Working Directory
 71.	WAP to Convert Map (HashMap) to List
