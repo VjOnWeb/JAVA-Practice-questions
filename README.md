@@ -13,8 +13,8 @@
 10.	WAP to Swap Two Numbers .
 11.	WAP to Check Whether a Number is Even or Odd 
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant .
-13.	WAP to Find all Roots of a Quadratic Equation .
-14.	WAP to Check Leap Year 
+13.	WAP to Find all Roots of a Quadratic Equation 
+14.	WAP to Check Leap Year .
 15.	WAP to Check Whether a Number is Positive or Negative .
 16.	WAP to Check Whether a Character is Alphabet or Not .
 17.	WAP to Find Factorial of a Number 
@@ -156,7 +156,7 @@
 153.	WAP to Get key from HashMap using the value
 154.	WAP to Detect loop in a LinkedList .
 155.	WAP to Calculate union of two sets
-156.	WAP to Calculate the intersection of two sets
+156.	WAP to Calculate the intersection of two sets .
 157.	WAP to Calculate the difference between two sets
 158.	WAP to Check if a set is the subset of another set
 159.	WAP to Sort map by keys
