@@ -21,7 +21,7 @@
 18.	WAP to Generate Multiplication Table .
 19.	WAP to Display Fibonacci Series .
 20.	WAP to Find GCD of two Numbers .
-21.	WAP to Find LCM of two Numbers .
+21.	WAP to Find LCM of two Numbers 
 22.	WAP to Display Alphabets (A to Z) using loop
 23.	WAP to Count Number of Digits in an Integer .
 24.	WAP to Reverse a Number
