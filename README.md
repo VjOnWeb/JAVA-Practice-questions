@@ -81,8 +81,8 @@
 78.	WAP to Convert InputStream to String
 79.	WAP to Convert OutputStream to String
 80.	WAP to Lookup enum by String value .
-81.	WAP to Compare Strings
-82.	WAP to Sort a Map By Values
+81.	WAP to Compare Strings .
+82.	WAP to Sort a Map By Values .
 83.	WAP to Sort ArrayList of Custom Objects By Property
 84.	WAP to Check if a String is Numeric
 85.	WAP to Create Directories
