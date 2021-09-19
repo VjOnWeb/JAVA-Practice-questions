@@ -1,7 +1,7 @@
 # JAVA
 ## Questions to be solved (in Java)
 
-1.	WAP(Write a Program) to display a message "Hello World !" .
+1.	WAP(Write a Program) to display a message "Hello World !" 
 2.	WAP to initialize char,int,double & float data type variables with any value.
 3.	WAP to find sum of 3 numbers and print the largest number
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" .
@@ -48,7 +48,7 @@
 45.	WAP to Find Largest Element of an Array .
 46.	WAP to Calculate Standard Deviation .
 47.	WAP to Add Two Matrix Using Multi-dimensional Arrays .
-48.	WAP to Multiply to Matrix Using Multi-dimensional Arrays
+48.	WAP to Multiply to Matrix Using Multi-dimensional Arrays .
 49.	WAP to Multiply two Matrices by Passing Matrix to a Function .
 50.	WAP to Find Transpose of a Matrix
 51.	WAP to Find the Frequency of Character in a String .
