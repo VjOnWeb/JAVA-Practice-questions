@@ -71,10 +71,10 @@
 68.	WAP to Join Two Lists .
 69.	WAP to Convert the ArrayList to an array and vice versa
 70.	WAP to Get Current Working Directory
-71.	WAP to Convert Map (HashMap) to List
+71.	WAP to Convert Map (HashMap) to List.
 72.	WAP to Convert Array to Set (HashSet) and Vice-Versa .
 73.	WAP to Convert Byte Array to Hexadecimal .
-74.	WAP to Create String from Contents of a File
+74.	WAP to Create String from Contents of a File .
 75.	WAP to Append Text to an Existing File
 76.	WAP to Convert a Stack Trace to a String
 77.	WAP to Convert File to byte array and Vice-Versa
