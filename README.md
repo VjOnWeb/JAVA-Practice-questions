@@ -6,7 +6,7 @@
 3.	WAP to find sum of 3 numbers and print the largest number .
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" 
 5.	WAP to Print an Integer (Entered by the User) 
-6.	WAP to Add Two Integers .
+6.	WAP to Add Two Integers 
 7.	WAP to Multiply two Floating Point Numbers .
 8.	WAP to Find ASCII Value of a character 
 9.	WAP to Compute Quotient and Remainder .
@@ -79,11 +79,11 @@
 76.	WAP to Convert a Stack Trace to a String
 77.	WAP to Convert File to byte array and Vice-Versa
 78.	WAP to Convert InputStream to String
-79.	WAP to Convert OutputStream to String
+79.	WAP to Convert OutputStream to String .
 80.	WAP to Lookup enum by String value .
 81.	WAP to Compare Strings .
 82.	WAP to Sort a Map By Values .
-83.	WAP to Sort ArrayList of Custom Objects By Property
+83.	WAP to Sort ArrayList of Custom Objects By Property .
 84.	WAP to Check if a String is Numeric
 85.	WAP to Create Directories
 86.	WAP to Rename File
@@ -144,7 +144,7 @@
 141.	WAP to Implement LinkedList
 142.	WAP to Implement stack data structure
 143.	WAP to Implement the queue data structure
-144.	WAP to Get the middle element of LinkedList in a single iteration
+144.	WAP to Get the middle element of LinkedList in a single iteration .
 145.	WAP to Convert the LinkedList into an Array and vice versa .
 146.	WAP to Convert the ArrayList into a string and vice versa .
 147.	WAP to Iterate over an ArrayList
