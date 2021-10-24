@@ -83,7 +83,7 @@
 80.	WAP to Lookup enum by String value .
 81.	WAP to Compare Strings .
 82.	WAP to Sort a Map By Values .
-83.	WAP to Sort ArrayList of Custom Objects By Property .
+83.	WAP to Sort ArrayList of Custom Objects By Property 
 84.	WAP to Check if a String is Numeric
 85.	WAP to Create Directories
 86.	WAP to Rename File
