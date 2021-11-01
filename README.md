@@ -63,8 +63,8 @@
 60.	WAP to Round a Number to n Decimal Places
 61.	WAP to Concatenate Two Arrays
 62.	WAP to Convert Character to String and Vice-Versa
-63.	WAP to Check if An Array Contains a Given Value
-64.	WAP to Check if a String is Empty or Null .
+63.	WAP to Check if An Array Contains a Given Value .
+64.	WAP to Check if a String is Empty or Null 
 65.	WAP to Get Current Date/TIme
 66.	WAP to Convert Milliseconds to Minutes and Seconds
 67.	WAP to Add Two Dates .
@@ -173,4 +173,4 @@
 170.	WAP to Implement the graph data structure
 171.	WAP to Remove elements from the LinkedList.
 172.	WAP to Add elements to a LinkedList .
-173.	WAP to Access elements from a LinkedList
+173.	WAP to Access elements from a LinkedList.
