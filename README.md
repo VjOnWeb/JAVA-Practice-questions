@@ -55,7 +55,7 @@
 52.	WAP to Count the Number of Vowels and Consonants in a Sentence
 53.	WAP to Sort Elements in Lexicographical Order (Dictionary Order)
 54.	WAP to Add Two Complex Numbers by Passing Class to a Function
-55.	WAP to Calculate Difference Between Two Time Periods .
+55.	WAP to Calculate Difference Between Two Time Periods 
 56.	Java Code To Create Pyramid and Pattern .
 57.	WAP to Remove All Whitespaces from a String .
 58.	WAP to Print an Array .
@@ -83,7 +83,7 @@
 80.	WAP to Lookup enum by String value .
 81.	WAP to Compare Strings .
 82.	WAP to Sort a Map By Values .
-83.	WAP to Sort ArrayList of Custom Objects By Property 
+83.	WAP to Sort ArrayList of Custom Objects By Property .
 84.	WAP to Check if a String is Numeric
 85.	WAP to Create Directories
 86.	WAP to Rename File
@@ -151,7 +151,7 @@
 148.	WAP to Iterate over a HashMap
 149.	WAP to Iterate over a Set
 150.	WAP to Merge two lists
-151.	WAP to Update value of HashMap using key
+151.	WAP to Update value of HashMap using key .
 152.	WAP to Remove duplicate elements from ArrayList
 153.	WAP to Get key from HashMap using the value
 154.	WAP to Detect loop in a LinkedList .
