@@ -7,7 +7,7 @@
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" 
 5.	WAP to Print an Integer (Entered by the User) 
 6.	WAP to Add Two Integers 
-7.	WAP to Multiply two Floating Point Numbers .
+7.	WAP to Multiply two Floating Point Numbers 
 8.	WAP to Find ASCII Value of a character .
 9.	WAP to Compute Quotient and Remainder .
 10.	WAP to Swap Two Numbers .
@@ -97,7 +97,7 @@
 94.	WAP to convert string type variables into boolean
 95.	WAP to convert string type variables into int
 96.	WAP to convert int type variables to String
-97.	WAP to convert int type variables to double
+97.	WAP to convert int type variables to double .
 98.	WAP to convert double type variables to int
 99.	WAP to convert string variables to double
 100.	WAP to convert double type variables to string
