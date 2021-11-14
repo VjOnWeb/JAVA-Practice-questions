@@ -107,7 +107,7 @@
 104.	WAP to Implement Merge Sort Algorithm
 105.	WAP to Implement Binary Search Algorithm .
 106.	WAP to Call One Constructor from another
-107.	WAP to implement private constructors
+107.	WAP to implement private constructors .
 108.	WAP to pass lambda expression as a method argument
 109.	WAP to pass method call as arguments to another method
 110.	WAP to Calculate the Execution Time of Methods
@@ -151,7 +151,7 @@
 148.	WAP to Iterate over a HashMap
 149.	WAP to Iterate over a Set
 150.	WAP to Merge two lists
-151.	WAP to Update value of HashMap using key .
+151.	WAP to Update value of HashMap using key 
 152.	WAP to Remove duplicate elements from ArrayList
 153.	WAP to Get key from HashMap using the value
 154.	WAP to Detect loop in a LinkedList .
