@@ -7,7 +7,7 @@
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" .
 5.	WAP to Print an Integer (Entered by the User) 
 6.	WAP to Add Two Integers .
-7.	WAP to Multiply two Floating Point Numbers 
+7.	WAP to Multiply two Floating Point Numbers .
 8.	WAP to Find ASCII Value of a character .
 9.	WAP to Compute Quotient and Remainder .
 10.	WAP to Swap Two Numbers .
