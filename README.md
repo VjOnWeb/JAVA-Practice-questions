@@ -68,7 +68,7 @@
 65.	WAP to Get Current Date/TIme
 66.	WAP to Convert Milliseconds to Minutes and Seconds
 67.	WAP to Add Two Dates .
-68.	WAP to Join Two Lists .
+68.	WAP to Join Two Lists 
 69.	WAP to Convert the ArrayList to an array and vice versa .
 70.	WAP to Get Current Working Directory
 71.	WAP to Convert Map (HashMap) to List.
@@ -143,7 +143,7 @@
 140.	WAP to Check the birthday and print Happy Birthday message
 141.	WAP to Implement LinkedList
 142.	WAP to Implement stack data structure
-143.	WAP to Implement the queue data structure
+143.	WAP to Implement the queue data structure .
 144.	WAP to Get the middle element of LinkedList in a single iteration .
 145.	WAP to Convert the LinkedList into an Array and vice versa .
 146.	WAP to Convert the ArrayList into a string and vice versa .
