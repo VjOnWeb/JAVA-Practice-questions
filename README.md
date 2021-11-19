@@ -10,7 +10,7 @@
 7.	WAP to Multiply two Floating Point Numbers .
 8.	WAP to Find ASCII Value of a character .
 9.	WAP to Compute Quotient and Remainder .
-10.	WAP to Swap Two Numbers .
+10.	WAP to Swap Two Numbers 
 11.	WAP to Check Whether a Number is Even or Odd .
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant 
 13.	WAP to Find all Roots of a Quadratic Equation 
@@ -132,7 +132,7 @@
 129.	WAP to Create random strings
 130.	WAP to Clear the StringBuffer
 131.	WAP to Capitalize the first character of each word in a String
-132.	WAP to Iterate through each characters of the string.
+132.	WAP to Iterate through each characters of the string
 133.	WAP to Differentiate String == operator and equals() method
 134.	WAP to Implement switch statement on strings .
 135.	WAP to Calculate simple interest and compound interest
@@ -152,7 +152,7 @@
 149.	WAP to Iterate over a Set
 150.	WAP to Merge two lists
 151.	WAP to Update value of HashMap using key 
-152.	WAP to Remove duplicate elements from ArrayList
+152.	WAP to Remove duplicate elements from ArrayList .
 153.	WAP to Get key from HashMap using the value
 154.	WAP to Detect loop in a LinkedList .
 155.	WAP to Calculate union of two sets
