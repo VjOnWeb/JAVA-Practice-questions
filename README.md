@@ -14,7 +14,7 @@
 11.	WAP to Check Whether a Number is Even or Odd .
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant 
 13.	WAP to Find all Roots of a Quadratic Equation 
-14.	WAP to Check Leap Year 
+14.	WAP to Check Leap Year .
 15.	WAP to Check Whether a Number is Positive or Negative 
 16.	WAP to Check Whether a Character is Alphabet or Not 
 17.	WAP to Find Factorial of a Number 
@@ -172,5 +172,5 @@
 169.	WAP to Check if a string is a valid shuffle of two distinct strings
 170.	WAP to Implement the graph data structure
 171.	WAP to Remove elements from the LinkedList.
-172.	WAP to Add elements to a LinkedList .
+172.	WAP to Add elements to a LinkedList 
 173.	WAP to Access elements from a LinkedList.
