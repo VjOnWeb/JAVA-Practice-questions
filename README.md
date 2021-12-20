@@ -6,7 +6,7 @@
 3.	WAP to find sum of 3 numbers and print the largest number .
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" .
 5.	WAP to Print an Integer (Entered by the User) .
-6.	WAP to Add Two Integers .
+6.	WAP to Add Two Integers 
 7.	WAP to Multiply two Floating Point Numbers .
 8.	WAP to Find ASCII Value of a character .
 9.	WAP to Compute Quotient and Remainder 
@@ -148,7 +148,7 @@
 145.	WAP to Convert the LinkedList into an Array and vice versa .
 146.	WAP to Convert the ArrayList into a string and vice versa .
 147.	WAP to Iterate over an ArrayList
-148.	WAP to Iterate over a HashMap
+148.	WAP to Iterate over a HashMap .
 149.	WAP to Iterate over a Set
 150.	WAP to Merge two lists
 151.	WAP to Update value of HashMap using key 
