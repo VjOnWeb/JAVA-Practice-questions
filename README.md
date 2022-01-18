@@ -2,7 +2,7 @@
 ## Questions to be solved (in Java)
 
 1.	WAP(Write a Program) to display a message "Hello World !" 
-2.	WAP to initialize char,int,double & float data type variables with any value .
+2.	WAP to initialize char,int,double & float data type variables with any value 
 3.	WAP to find sum of 3 numbers and print the largest number .
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" . 
 5.	WAP to Print an Integer (Entered by the User) .
@@ -139,7 +139,7 @@
 136.	WAP to Implement multiple inheritance .
 137.	WAP to Determine the name and version of the operating system
 138.	WAP to Check if two of three boolean variables are true
-139.	WAP to Iterate over enum
+139.	WAP to Iterate over enum .
 140.	WAP to Check the birthday and print Happy Birthday message
 141.	WAP to Implement LinkedList
 142.	WAP to Implement stack data structure
