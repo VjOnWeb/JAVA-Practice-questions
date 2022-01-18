@@ -5,7 +5,7 @@
 2.	WAP to initialize char,int,double & float data type variables with any value .
 3.	WAP to find sum of 3 numbers and print the largest number .
 4.	WAP to find largest and smallest no.,out of 3 "without using if...else" . 
-5.	WAP to Print an Integer (Entered by the User) 
+5.	WAP to Print an Integer (Entered by the User) .
 6.	WAP to Add Two Integers 
 7.	WAP to Multiply two Floating Point Numbers 
 8.	WAP to Find ASCII Value of a character .
@@ -89,7 +89,7 @@
 86.	WAP to Rename File
 87.	WAP to Get all Files Present in a Directory
 88.	WAP to Copy File
-89.	WAP to convert char type variables to int .
+89.	WAP to convert char type variables to int 
 90.	WAP to convert int type variables to char
 91.	WAP to convert long type variables into int
 92.	WAP to convert int type variables to long
@@ -147,7 +147,7 @@
 144.	WAP to Get the middle element of LinkedList in a single iteration .
 145.	WAP to Convert the LinkedList into an Array and vice versa .
 146.	WAP to Convert the ArrayList into a string and vice versa .
-147.	WAP to Iterate over an ArrayList
+147.	WAP to Iterate over an ArrayList .
 148.	WAP to Iterate over a HashMap .
 149.	WAP to Iterate over a Set
 150.	WAP to Merge two lists
