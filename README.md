@@ -6,7 +6,7 @@
 03.	WAP to find sum of 3 numbers and print the largest number .
 04.	WAP to find largest and smallest no.,out of 3 "without using if...else" 
 05.	WAP to Print an Integer (Entered by the User) .
-06.	WAP to Add Two Integers 
+06.	WAP to Add Two Integers .
 07.	WAP to Multiply two Floating Point Numbers .
 08.	WAP to Find ASCII Value of a character .
 09.	WAP to Compute Quotient and Remainder .
