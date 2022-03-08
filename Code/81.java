@@ -1,4 +1,4 @@
-#Example 1: Compare two strings
+//Example 1: Compare two strings
 
 public class CompareStrings {
 
@@ -14,7 +14,7 @@ public class CompareStrings {
     }
 }
 
-#Example 2: Compare two strings using equals()
+//Example 2: Compare two strings using equals()
   
 public class CompareStrings {
 
@@ -30,7 +30,7 @@ public class CompareStrings {
     }
 }
 
-#Example 3: Compare two string objects using == (Doesn't work)
+//Example 3: Compare two string objects using == (Doesn't work)
                                                  
 public class CompareStrings {
 
@@ -47,7 +47,7 @@ public class CompareStrings {
 }
                                                  
  
- #Example 4: Different ways to compare two strings
+ //Example 4: Different ways to compare two strings
 
 public class CompareStrings {
 
