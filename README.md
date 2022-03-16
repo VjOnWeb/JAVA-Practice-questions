@@ -13,7 +13,7 @@
 10.	WAP to Swap Two Numbers .
 11.	WAP to Check Whether a Number is Even or Odd .
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant .
-13.	WAP to Find all Roots of a Quadratic Equation 
+13.	WAP to Find all Roots of a Quadratic Equation .
 14.	WAP to Check Leap Year .
 15.	WAP to Check Whether a Number is Positive or Negative 
 16.	WAP to Check Whether a Character is Alphabet or Not 
