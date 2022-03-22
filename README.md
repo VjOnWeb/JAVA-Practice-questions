@@ -30,9 +30,9 @@
 27.	WAP to Check Whether a Number is Prime or Not .
 28.	WAP to Display Prime Numbers Between Two Intervals .
 29.	WAP to Check Armstrong Number .
-30.	WAP to Display Armstrong Number Between Two Intervals
-31.	WAP to Display Prime Numbers Between Intervals Using Function
-32.	WAP to Display Armstrong Numbers Between Intervals Using Function
+30.	WAP to Display Armstrong Number Between Two Intervals .
+31.	WAP to Display Prime Numbers Between Intervals Using Function .
+32.	WAP to Display Armstrong Numbers Between Intervals Using Function .
 33.	WAP to Display Factors of a Number .
 34.	WAP to Make a Simple Calculator Using switch...case .
 35.	WAP to Check Whether a Number can be Expressed as Sum of Two Prime Numbers .
@@ -50,12 +50,12 @@
 47.	WAP to Add Two Matrix Using Multi-dimensional Arrays .
 48.	WAP to Multiply to Matrix Using Multi-dimensional Arrays .
 49.	WAP to Multiply two Matrices by Passing Matrix to a Function .
-50.	WAP to Find Transpose of a Matrix
+50.	WAP to Find Transpose of a Matrix .
 51.	WAP to Find the Frequency of Character in a String .
-52.	WAP to Count the Number of Vowels and Consonants in a Sentence
-53.	WAP to Sort Elements in Lexicographical Order (Dictionary Order)
-54.	WAP to Add Two Complex Numbers by Passing Class to a Function
-55.	WAP to Calculate Difference Between Two Time Periods 
+52.	WAP to Count the Number of Vowels and Consonants in a Sentence .
+53.	WAP to Sort Elements in Lexicographical Order (Dictionary Order) .
+54.	WAP to Add Two Complex Numbers by Passing Class to a Function .
+55.	WAP to Calculate Difference Between Two Time Periods .
 56.	Java Code To Create Pyramid and Pattern .
 57.	WAP to Remove All Whitespaces from a String .
 58.	WAP to Print an Array .
