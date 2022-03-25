@@ -59,10 +59,10 @@
 56.	Java Code To Create Pyramid and Pattern .
 57.	WAP to Remove All Whitespaces from a String .
 58.	WAP to Print an Array .
-59.	WAP to Convert String to Date
-60.	WAP to Round a Number to n Decimal Places
-61.	WAP to Concatenate Two Arrays
-62.	WAP to Convert Character to String and Vice-Versa
+59.	WAP to Convert String to Date .
+60.	WAP to Round a Number to n Decimal Places .
+61.	WAP to Concatenate Two Arrays .
+62.	WAP to Convert Character to String and Vice-Versa .
 63.	WAP to Check if An Array Contains a Given Value .
 64.	WAP to Check if a String is Empty or Null 
 65.	WAP to Get Current Date/TIme
