@@ -161,7 +161,7 @@
 158.	WAP to Check if a set is the subset of another set
 159.	WAP to Sort map by keys
 160.	WAP to Pass ArrayList as the function argument
-161.	WAP to Iterate over ArrayList using Lambda Expression
+161.	WAP to Iterate over ArrayList using Lambda Expression .
 162.	WAP to Implement Binary Tree Data Structure
 163.	WAP to Perform the preorder tree traversal
 164.	WAP to Perform the postorder tree traversal
