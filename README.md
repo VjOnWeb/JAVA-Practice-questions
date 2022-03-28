@@ -64,9 +64,9 @@
 61.	WAP to Concatenate Two Arrays .
 62.	WAP to Convert Character to String and Vice-Versa .
 63.	WAP to Check if An Array Contains a Given Value .
-64.	WAP to Check if a String is Empty or Null 
-65.	WAP to Get Current Date/TIme
-66.	WAP to Convert Milliseconds to Minutes and Seconds
+64.	WAP to Check if a String is Empty or Null .
+65.	WAP to Get Current Date/TIme .
+66.	WAP to Convert Milliseconds to Minutes and Seconds .
 67.	WAP to Add Two Dates .
 68.	WAP to Join Two Lists 
 69.	WAP to Convert the ArrayList to an array and vice versa .
