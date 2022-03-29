@@ -68,26 +68,26 @@
 65.	WAP to Get Current Date/TIme .
 66.	WAP to Convert Milliseconds to Minutes and Seconds .
 67.	WAP to Add Two Dates .
-68.	WAP to Join Two Lists 
+68.	WAP to Join Two Lists .
 69.	WAP to Convert the ArrayList to an array and vice versa .
-70.	WAP to Get Current Working Directory
+70.	WAP to Get Current Working Directory .
 71.	WAP to Convert Map (HashMap) to List.
 72.	WAP to Convert Array to Set (HashSet) and Vice-Versa .
 73.	WAP to Convert Byte Array to Hexadecimal .
 74.	WAP to Create String from Contents of a File .
-75.	WAP to Append Text to an Existing File
-76.	WAP to Convert a Stack Trace to a String
+75.	WAP to Append Text to an Existing File .
+76.	WAP to Convert a Stack Trace to a String .
 77.	WAP to Convert File to byte array and Vice-Versa .
-78.	WAP to Convert InputStream to String
+78.	WAP to Convert InputStream to String .
 79.	WAP to Convert OutputStream to String .
 80.	WAP to Lookup enum by String value .
 81.	WAP to Compare Strings .
 82.	WAP to Sort a Map By Values .
-83.	WAP to Sort ArrayList of Custom Objects By Property 
-84.	WAP to Check if a String is Numeric
-85.	WAP to Create Directories
-86.	WAP to Rename File
-87.	WAP to Get all Files Present in a Directory
+83.	WAP to Sort ArrayList of Custom Objects By Property .
+84.	WAP to Check if a String is Numeric .
+85.	WAP to Create Directories .
+86.	WAP to Rename File .
+87.	WAP to Get all Files Present in a Directory .
 88.	WAP to Copy File
 89.	WAP to convert char type variables to int 
 90.	WAP to convert int type variables to char
