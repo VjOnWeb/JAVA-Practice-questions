@@ -88,15 +88,15 @@
 85.	WAP to Create Directories .
 86.	WAP to Rename File .
 87.	WAP to Get all Files Present in a Directory .
-88.	WAP to Copy File
-89.	WAP to convert char type variables to int 
-90.	WAP to convert int type variables to char
-91.	WAP to convert long type variables into int
-92.	WAP to convert int type variables to long
-93.	WAP to convert boolean variables into string
-94.	WAP to convert string type variables into boolean
-95.	WAP to convert string type variables into int
-96.	WAP to convert int type variables to String
+88.	WAP to Copy File .
+89.	WAP to convert char type variables to int .
+90.	WAP to convert int type variables to char .
+91.	WAP to convert long type variables into int .
+92.	WAP to convert int type variables to long .
+93.	WAP to convert boolean variables into string .
+94.	WAP to convert string type variables into boolean .
+95.	WAP to convert string type variables into int .
+96.	WAP to convert int type variables to String .
 97.	WAP to convert int type variables to double .
 98.	WAP to convert double type variables to int
 99.	WAP to convert string variables to double
