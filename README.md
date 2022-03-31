@@ -98,15 +98,15 @@
 95.	WAP to convert string type variables into int .
 96.	WAP to convert int type variables to String .
 97.	WAP to convert int type variables to double .
-98.	WAP to convert double type variables to int
-99.	WAP to convert string variables to double
-100.	WAP to convert double type variables to string
-101.	WAP to convert primitive types to objects and vice versa
-102.	WAP to Implement Bubble Sort algorithm
+98.	WAP to convert double type variables to int .
+99.	WAP to convert string variables to double .
+100.	WAP to convert double type variables to string .
+101.	WAP to convert primitive types to objects and vice versa .
+102.	WAP to Implement Bubble Sort algorithm .
 103.	WAP to Implement Quick Sort Algorithm .
-104.	WAP to Implement Merge Sort Algorithm
+104.	WAP to Implement Merge Sort Algorithm .
 105.	WAP to Implement Binary Search Algorithm .
-106.	WAP to Call One Constructor from another
+106.	WAP to Call One Constructor from another .
 107.	WAP to implement private constructors .
 108.	WAP to pass lambda expression as a method argument
 109.	WAP to pass method call as arguments to another method
