@@ -149,11 +149,11 @@
 146.	WAP to Convert the ArrayList into a string and vice versa .
 147.	WAP to Iterate over an ArrayList .
 148.	WAP to Iterate over a HashMap .
-149.	WAP to Iterate over a Set
-150.	WAP to Merge two lists
-151.	WAP to Update value of HashMap using key 
+149.	WAP to Iterate over a Set .
+150.	WAP to Merge two lists .
+151.	WAP to Update value of HashMap using key .
 152.	WAP to Remove duplicate elements from ArrayList .
-153.	WAP to Get key from HashMap using the value
+153.	WAP to Get key from HashMap using the value .
 154.	WAP to Detect loop in a LinkedList .
 155.	WAP to Calculate union of two sets
 156.	WAP to Calculate the intersection of two sets .
