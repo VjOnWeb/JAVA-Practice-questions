@@ -108,12 +108,12 @@
 105.	WAP to Implement Binary Search Algorithm .
 106.	WAP to Call One Constructor from another .
 107.	WAP to implement private constructors .
-108.	WAP to pass lambda expression as a method argument
-109.	WAP to pass method call as arguments to another method
-110.	WAP to Calculate the Execution Time of Methods
-111.	WAP to Convert a String into the InputStream
-112.	WAP to Convert the InputStream into Byte Array
-113.	WAP to Load File as InputStream
+108.	WAP to pass lambda expression as a method argument .
+109.	WAP to pass method call as arguments to another method .
+110.	WAP to Calculate the Execution Time of Methods .
+111.	WAP to Convert a String into the InputStream .
+112.	WAP to Convert the InputStream into Byte Array .
+113.	WAP to Load File as InputStream .
 114.	WAP to Create File and Write to the File .
 115.	WAP to Read the Content of a File Line by Line .
 116.	WAP to Delete File in Java .
