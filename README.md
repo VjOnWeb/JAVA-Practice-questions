@@ -140,7 +140,7 @@
 137.	WAP to Determine the name and version of the operating system
 138.	WAP to Check if two of three boolean variables are true
 139.	WAP to Iterate over enum .
-140.	WAP to Check the birthday and print Happy Birthday message
+140.	WAP to Check the birthday and print Happy Birthday message .
 141.	WAP to Implement LinkedList
 142.	WAP to Implement stack data structure
 143.	WAP to Implement the queue data structure .
