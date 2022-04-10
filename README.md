@@ -126,7 +126,7 @@
 123.	WAP to Create an enum class
 124.	WAP to Print object of a class
 125.	WAP to Create custom exception
-126.	WAP to Create an Immutable Class
+126.	WAP to Create an Immutable Class .
 127.	WAP to Check if two strings are anagram .
 128.	WAP to Compute all the permutations of the string
 129.	WAP to Create random strings
