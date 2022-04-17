@@ -168,7 +168,7 @@
 165.	WAP to Perform the inorder tree traversal
 166.	WAP to Count number of leaf nodes in a tree
 167.	WAP to Check if a string contains a substring
-168.	WAP to Access private members of a class
+168.	WAP to Access private members of a class .
 169.	WAP to Check if a string is a valid shuffle of two distinct strings .
 170.	WAP to Implement the graph data structure .
 171.	WAP to Remove elements from the LinkedList .
