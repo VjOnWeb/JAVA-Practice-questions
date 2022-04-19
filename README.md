@@ -120,7 +120,7 @@
 117.	WAP to Delete Empty and Non-empty Directory .
 118.	WAP to Get the File Extension 
 119.	WAP to Get the name of the file from the absolute path
-120.	WAP to Get the relative path from two absolute paths
+120.	WAP to Get the relative path from two absolute paths .
 121.	WAP to Count number of lines present in the file
 122.	WAP to Determine the class of an object .
 123.	WAP to Create an enum class
