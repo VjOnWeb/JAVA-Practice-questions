@@ -141,7 +141,7 @@
 138.	WAP to Check if two of three boolean variables are true
 139.	WAP to Iterate over enum .
 140.	WAP to Check the birthday and print Happy Birthday message .
-141.	WAP to Implement LinkedList
+141.	WAP to Implement LinkedList .
 142.	WAP to Implement stack data structure
 143.	WAP to Implement the queue data structure .
 144.	WAP to Get the middle element of LinkedList in a single iteration .
