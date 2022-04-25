@@ -119,7 +119,7 @@
 116.	WAP to Delete File in Java .
 117.	WAP to Delete Empty and Non-empty Directory .
 118.	WAP to Get the File Extension 
-119.	WAP to Get the name of the file from the absolute path
+119.	WAP to Get the name of the file from the absolute path .
 120.	WAP to Get the relative path from two absolute paths .
 121.	WAP to Count number of lines present in the file
 122.	WAP to Determine the class of an object .
@@ -128,9 +128,9 @@
 125.	WAP to Create custom exception
 126.	WAP to Create an Immutable Class .
 127.	WAP to Check if two strings are anagram .
-128.	WAP to Compute all the permutations of the string
-129.	WAP to Create random strings
-130.	WAP to Clear the StringBuffer
+128.	WAP to Compute all the permutations of the string .
+129.	WAP to Create random strings .
+130.	WAP to Clear the StringBuffer .
 131.	WAP to Capitalize the first character of each word in a String
 132.	WAP to Iterate through each characters of the string
 133.	WAP to Differentiate String == operator and equals() method
