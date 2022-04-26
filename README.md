@@ -163,7 +163,7 @@
 160.	WAP to Pass ArrayList as the function argument .
 161.	WAP to Iterate over ArrayList using Lambda Expression .
 162.	WAP to Implement Binary Tree Data Structure
-163.	WAP to Perform the preorder tree traversal
+163.	WAP to Perform the preorder tree traversal .
 164.	WAP to Perform the postorder tree traversal
 165.	WAP to Perform the inorder tree traversal
 166.	WAP to Count number of leaf nodes in a tree
