@@ -124,7 +124,7 @@
 121.	WAP to Count number of lines present in the file
 122.	WAP to Determine the class of an object .
 123.	WAP to Create an enum class
-124.	WAP to Print object of a class
+124.	WAP to Print object of a class .
 125.	WAP to Create custom exception
 126.	WAP to Create an Immutable Class .
 127.	WAP to Check if two strings are anagram .
