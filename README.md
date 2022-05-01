@@ -165,7 +165,7 @@
 162.	WAP to Implement Binary Tree Data Structure
 163.	WAP to Perform the preorder tree traversal .
 164.	WAP to Perform the postorder tree traversal
-165.	WAP to Perform the inorder tree traversal
+165.	WAP to Perform the inorder tree traversal .
 166.	WAP to Count number of leaf nodes in a tree
 167.	WAP to Check if a string contains a substring
 168.	WAP to Access private members of a class .
