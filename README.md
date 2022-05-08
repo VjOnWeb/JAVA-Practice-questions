@@ -131,7 +131,7 @@
 128.	WAP to Compute all the permutations of the string .
 129.	WAP to Create random strings .
 130.	WAP to Clear the StringBuffer .
-131.	WAP to Capitalize the first character of each word in a String
+131.	WAP to Capitalize the first character of each word in a String .
 132.	WAP to Iterate through each characters of the string
 133.	WAP to Differentiate String == operator and equals() method
 134.	WAP to Implement switch statement on strings .
