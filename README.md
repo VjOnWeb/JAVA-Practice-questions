@@ -138,7 +138,7 @@
 135.	WAP to Calculate simple interest and compound interest .
 136.	WAP to Implement multiple inheritance .
 137.	WAP to Determine the name and version of the operating system
-138.	WAP to Check if two of three boolean variables are true
+138.	WAP to Check if two of three boolean variables are true .
 139.	WAP to Iterate over enum .
 140.	WAP to Check the birthday and print Happy Birthday message .
 141.	WAP to Implement LinkedList .
