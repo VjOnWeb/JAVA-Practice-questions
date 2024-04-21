@@ -10,8 +10,8 @@
 07.	~~WAP to Multiply two Floating Point Numbers .~~
 08.	~~WAP to Find ASCII Value of a character .~~
 09.	~~WAP to Compute Quotient and Remainder .~~
-10.	WAP to Swap Two Numbers .
-11.	WAP to Check Whether a Number is Even or Odd .
+10.	~~WAP to Swap Two Numbers without using 3 variables .~~
+11.	~~WAP to Check Whether a Number is Even or Odd .~~
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant .
 13.	WAP to Find all Roots of a Quadratic Equation .
 14.	WAP to Check Leap Year .
