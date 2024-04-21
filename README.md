@@ -15,8 +15,8 @@
 12.	~~WAP to Check Whether an Alphabet is Vowel or Consonant .~~
 13.	WAP to Find all Roots of a Quadratic Equation .
 14.	WAP to Check Leap Year .
-15.	WAP to Check Whether a Number is Positive or Negative .
-16.	WAP to Check Whether a Character is Alphabet or Not .
+15.	~~WAP to Check Whether a Number is Positive or Negative .~~
+16.	~~WAP to Check Whether a Character is Alphabet or Not .~~
 17.	WAP to Find Factorial of a Number .
 18.	WAP to Generate Multiplication Table .
 19.	WAP to Display Fibonacci Series .
