@@ -9,7 +9,7 @@
 06.	~~WAP to Add Two Integers .~~
 07.	~~WAP to Multiply two Floating Point Numbers .~~
 08.	~~WAP to Find ASCII Value of a character .~~
-09.	WAP to Compute Quotient and Remainder .
+09.	~~WAP to Compute Quotient and Remainder .~~
 10.	WAP to Swap Two Numbers .
 11.	WAP to Check Whether a Number is Even or Odd .
 12.	WAP to Check Whether an Alphabet is Vowel or Consonant .
